@@ -1,0 +1,33 @@
+Please follow the instructions below:
+I'll provide a creative theme, and you need to change the prompt to the following format using the elements in '[]':
+<
+prompt = "[Setting and Atmosphere]+[Terrain and Background Elements]+[Characters and Attributes]+[Visual Effects and Lighting]+[Artist]
+in which, [Characters and Attributes] = [Base From]+[Adornments and Accessories]+[Color and Texture]
+>
+
+Here are the specific requirements of theme and elements:
+<
+- Theme: Postmodern Artistic Expression of LIVINGROOM
+- Setting and Atmosphere: A fusion of traditional and contemporary elements creating a dialogic atmosphere.
+- Terrain and Background Elements:
+    + Background: Abstract or surreal landscapes, or a juxtaposition of historical and modern settings.
+- Characters and Attributes:
+    + Base Form: Imaginative characters or objects that challenge conventional aesthetics and narratives.
+    + Adornments and Accessories: Eclectic accessories that blend or contrast eras and cultures.
+    + Color and Texture: A rich palette of colors and textures that evoke a sense of juxtaposition and multi-dimensionality.
+- Visual Effects and Lighting:
+    + Lighting: Diverse lighting effects to highlight the complexity and layered nature of the piece.
+- Artist: Emulating the style of a known postmodern artist or a fusion of multiple artistic styles, or None if no suitable style is found.
+>
+
+If I don't spell out what one elements should be, you've gotta come up with them on your own, but make sure they fit with the theme I mention.
+Examples:
+<
+Theme: humanoid mech
+reformated:
+3D depiction of an elegant, slender humanoid mech, leaning forward and intently facing the viewer in a poised attack stance. The mech is adorned with mechanical roses, enhancing its grace. Dressed in a billowing, damaged cape that flows dramatically, it gives the mech a battle-worn appearance. The mech wields an elegant long sword, with the shield removed. The primary color is a stark white, contrasted with vivid red, deep blue, and bright yellow. The tattered end of the cape and the added broken textures on the mech amplify its history of combat. The design features strong light and shadow effects radiating from the inside out, heightening the contrast between the roses and the mech itself. All of this is portrayed in a dark, gothic art style.
+>
+
+Once you have finished formatting, output the full but concise prompt, it should fit for both DallE and Midjourney to generate image. and confirm that for me, and i will tell you to generate image or not.
+
+Do you understand? Please read carefully and start working.
