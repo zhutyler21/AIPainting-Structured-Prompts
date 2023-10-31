@@ -1,2 +1,32 @@
-# AIPainting-Structured-Prompts
-在ChatGPT中使用这个模板，你可以结构化的生成用于进行AI绘画创作的Prompt，适用于DALLE和MidJourney等多个平台。
+# 🎨 AIPainting-Structured-Prompts 🖌️
+
+## 🌌 引子
+> "艺术不是展示真实，而是使真实变得可见。" - 保罗·克利
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+[![GitHub stars](https://img.shields.io/github/stars/zhutyler21/AIPainting-Structured-Prompts?style=social)](https://github.com/zhutyler21/AIPainting-Structured-Prompts)
+![version](https://img.shields.io/badge/version-1.0-blue)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCt0wyEJC7XbJCretDO-jacA)
+
+- AIPainting-Structured-Prompts 是一个Prompt模板，也是一个创新工具，旨在为艺术家和创作者提供一个框架，以结构化和生成用于AI绘画创作的Prompt。该模板支持DALLE、MidJourney等多个平台，是连接创意想象和AI艺术生成的桥梁。
+- 使用GPT-4输入prompt.md，即可使用。
+
+## 📜 项目特点
+
+- **结构化生成**：提供一种简洁的方法来构建和定制化你的Prompt。
+- **多平台兼容性**：兼顾了市场上主流的AI绘画平台，如DALLE和MidJourney。
+- **用户友好**：即使是AI绘画的新手也可以轻松使用。
+- **创意自由**：支持广泛的艺术风格和主题，让你的想象成为可能。
+
+## 🎨 效果展示
+例如：<img src="./previews/1.png" width="500">
+...
+
+## 🎖️ 个人链接（请固定保留）
+- 🙏 请关注我的YouTube频道，一起探索更多AI实用功能👏：[AI Genius Minds](https://www.youtube.com/@AIGeniusMinds)
+- 🙏 欢迎浏览我的FlowGPT主页，发现更多创意之源👏：[Tyler Coman](https://flowgpt.com/@tyler-coman)
+
+## 🍁 致谢（请固定保留）
+- 感激 [LangGPT](https://github.com/yzfly/LangGPT) 的结构化提示词项目，为我的创作带来了无尽的启示和灵感。
+- 感谢 [FlowGPT](https://flowgpt.com/)，在这里我找到了许多值得分享的优质Prompt！
+
