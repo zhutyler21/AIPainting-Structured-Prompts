@@ -8,7 +8,7 @@
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCt0wyEJC7XbJCretDO-jacA)
 
-- AIPainting-Structured-Prompts 是一个Prompt模板，也是一个创新工具，旨在为艺术家和创作者提供一个框架，以结构化和生成用于AI绘画创作的Prompt。该模板支持DALLE、MidJourney等多个平台，是连接创意想象和AI艺术生成的桥梁。
+- AIPainting-Structured-Prompts 是一个Prompt模板，也是一个创新工具，旨在为艺术家和创作者提供一个框架，以结构化和生成用于AI绘画创作的Prompt。该模板支持DALLE、Midjourney等多个平台，是连接创意想象和AI艺术生成的桥梁。
 - 使用GPT-4输入prompt.md，即可使用。
 
 ## 📜 项目特点
@@ -18,7 +18,8 @@
 - **用户友好**：即使是AI绘画的新手也可以轻松使用。
 - **创意自由**：支持广泛的艺术风格和主题，让你的想象成为可能。
 
-## 🎨 效果展示 by MidJourney --v5.2
+## 🎨 效果展示 
+- by Midjourney--v5.2
 <img src="./previews/1.png" width="500">
 
 - **Prompt**:
