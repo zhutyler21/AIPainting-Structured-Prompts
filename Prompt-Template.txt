@@ -7,7 +7,7 @@ in which, [Characters and Attributes] = [Base From]+[Adornments and Accessories]
 
 Here are the specific requirements of theme and elements:
 <
-- Theme: Postmodern Artistic Expression of LIVINGROOM
+- Theme: Postmodern Artistic Expression of livingroom
 - Setting and Atmosphere: A fusion of traditional and contemporary elements creating a dialogic atmosphere.
 - Terrain and Background Elements:
     + Background: Abstract or surreal landscapes, or a juxtaposition of historical and modern settings.
