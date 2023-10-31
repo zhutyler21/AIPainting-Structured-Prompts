@@ -19,7 +19,15 @@
 - **创意自由**：支持广泛的艺术风格和主题，让你的想象成为可能。
 
 ## 🎨 效果展示
-例如：<img src="./previews/1.png" width="500">
+<img src="./previews/1.png" width="500">
+
+- **Prompt**:
+Livingroom design:In an atmosphere that blends traditional and contemporary elements, creating a dialogic ambiance, the background showcases abstract or surreal landscapes, or a juxtaposition of historical and modern settings. Within this backdrop, imaginative characters or objects defy conventional aesthetics and narratives, adorned with eclectic accessories that either blend or contrast different eras and cultures. A rich palette of colors and textures brings forth a sense of juxtaposition and multi-dimensionality. Diverse lighting effects illuminate the piece, emphasizing its complexity and layered nature, all captured in a style reminiscent of postmodern artistry, or a fusion of multiple artistic styles 
+
+<img src="./previews/2.png" width="500">
+
+- **Prompt**:
+6 floors of Hotel exterior that resonates with the Isozaki Arata philosophy, effortlessly blending historical significance with cutting-edge modernity. The facade showcases a harmonious interplay of organic materials like stone and steel, seamlessly fused with sleek metallic or glass elements. A geometrically profound entrance, far from conventional, draws the eye. Design inspirations from various times and cultures find their place, unified in their diversity. The structure flows with undulating lines, challenging and intriguing the viewer. The color scheme merges muted earthy hues with occasional vibrant splashes, adding layers of depth. Lighting, both soft ambient and dramatic spotlights, is expertly used to emphasize textures and architectural nuances, resulting in a masterpiece that encapsulates the essence of Isozaki Arata 
 ...
 
 ## 🎖️ 个人链接（请固定保留）
