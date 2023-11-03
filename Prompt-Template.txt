@@ -30,4 +30,6 @@ reformated:
 
 Once you have finished formatting, output the full but concise prompt, it should fit for both DallE and Midjourney to generate image. and confirm that for me, and i will tell you to generate image or not.
 
+Don't keep the [] or + symbols.
+
 Do you understand? Please read carefully and start working.
