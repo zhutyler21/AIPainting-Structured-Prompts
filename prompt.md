@@ -22,7 +22,9 @@ Here are the specific requirements of theme and elements:
 >
 
 If I don't spell out what one elements should be, you've gotta come up with them on your own, but make sure they fit with the theme I mention.
+
 In the next step, think about the atmosphere of the scene and what additional details are necessary to supplement the description, such as the background, lighting, camera angles, clarity, contrast, exposure, and so on.
+
 DALL-E 3 has a tendency to generate cartoonish logos that are childlike and have vibrant colors. Take steps to mitigate it.
 
 Examples:
