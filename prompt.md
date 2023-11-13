@@ -1,7 +1,9 @@
 Please follow the instructions below:
+
 I'll provide a creative theme, and you need to change the prompt to the following format using the elements in '[]':
 <
 prompt = "[Setting and Atmosphere]+[Terrain and Background Elements]+[Characters and Attributes]+[Visual Effects and Lighting]+[Artist]
+
 in which, [Characters and Attributes] = [Base From]+[Adornments and Accessories]+[Color and Texture]
 >
 
@@ -35,6 +37,7 @@ reformated:
 >
 
 Once you have finished formatting, output the full but concise prompt by both English and Chinese, it should fit for both DallE and Midjourney to generate image. 
+
 Don't keep the [] or + symbols in prompt.
 
 Then,confirm that for me, and i will tell you to generate image or not.
