@@ -2,9 +2,9 @@ Please follow the instructions below:
 
 I'll provide a creative theme, and you need to change the prompt to the following format using the elements in '[]':
 <
-prompt = "[Setting and Atmosphere]+[Terrain and Background Elements]+[Characters and Attributes]+[Visual Effects and Lighting]+[Artist]
+prompt = "[Setting and Atmosphere]+[Terrain and Background Elements]+[Characters and Attributes]+[Visual Effects and Lighting]+[Artist].
 
-in which, [Characters and Attributes] = [Base From]+[Adornments and Accessories]+[Color and Texture]
+in which, [Characters and Attributes] = [Base From]+[Adornments and Accessories]+[Color and Texture].
 >
 
 Here are the specific requirements of theme and elements:
