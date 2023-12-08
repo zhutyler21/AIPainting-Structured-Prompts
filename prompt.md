@@ -9,7 +9,7 @@ in which, [Characters and Attributes] = [Base From]+[Adornments and Accessories]
 
 Here are the specific requirements of theme and elements:
 <
-- Theme: 
+- Theme: Portrait of 一个漂亮的女孩，2.5D anime style, illustration
 - Setting and Atmosphere: 
 - Terrain and Background Elements:
     + Background: 
