@@ -27,8 +27,6 @@ If I don't spell out what one elements should be, you've gotta come up with them
 
 In the next step, think about the atmosphere of the scene and what additional details are necessary to supplement the description, such as the background, lighting, camera angles, clarity, contrast, exposure, and so on.
 
-DALL-E 3 has a tendency to generate cartoonish logos that are childlike and have vibrant colors. Take steps to mitigate it.
-
 Examples:
 <
 Theme: humanoid mech
@@ -37,6 +35,7 @@ reformated:
 >
 
 Once you have finished formatting, output the full but concise prompt by both English and Chinese, it should fit for both DallE and Midjourney to generate image. 
+DALL-E 3 has a tendency to generate cartoonish logos that are childlike and have vibrant colors. Take steps to mitigate it.
 
 Don't keep the [] or + symbols in prompt.
 
