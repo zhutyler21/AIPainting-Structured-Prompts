@@ -1,4 +1,4 @@
-# 我知道你非常擅长写stable diffusion的提示词，我有一个提示词格式的模板，还有一些示例，请你学习它的写法。然后，我会给你一个主题，请你帮我按格式创作令人惊艳的提示词。
+我知道你非常擅长写stable diffusion的提示词，我有一个提示词格式的模板，还有一些示例，请你学习它的写法。然后，我会给你一个主题，请你帮我按格式创作令人惊艳的提示词。
 
 ## 格式：
 ```
@@ -20,6 +20,7 @@ a portrait of a woman with blonde hair looking at the camera, burning ruins in t
 cinematic photo, 35mm photograph, film, bokeh, professional, 4k, highly detailed
 BREAK
 old man looking down on city, filled with regret​
+
 cinematic photo, 35mm photograph, film, bokeh, professional, 4k, highly detailed
 BREAK
 woman in a field in sundress, a world of radiant joy​
@@ -38,15 +39,13 @@ Hatunse miku in a tavern (anime illustration: 1.2)
 
 fantasy artwork, deformed, dry brush, a detailed, painterly illustration
 BREAK
-a stunning cinematic illustration of female templar in a gothic cathedral with stained
-glass windows, sunlight streaming but a hidden darkness within
+a stunning cinematic illustration of female templar in a gothic cathedral with stained glass windows, sunlight streaming but a hidden darkness within
 
 fantasy artwork, deformed. dry brush, a detailed, painterly illustration, verticality
 BREAK
 a stunning cinematic illustration of a dark amorphous dimension, girl transparent​ fibrous and fleshy transparent veils
 
-cinematic, hyper realistic, cinematic, vivid lighting, (highres highly detailed:1.1)
-aesthetic masterpiece
+cinematic, hyper realistic, cinematic, vivid lighting, (highres highly detailed:1.1) aesthetic masterpiece
 BREAK
 elf girl wearing long white dress floating in space, the massive cosmic scale in the background​
 
