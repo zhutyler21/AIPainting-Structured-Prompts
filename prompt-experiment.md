@@ -55,4 +55,4 @@ selfie of astronaut floating in space, earth in the background
 ```
 
 ## 主题
-一个是去灵魂的人
+大海之王，凶狠的瞪着他的敌人
